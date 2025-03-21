@@ -3,7 +3,7 @@ name: Publier le statut WhatsApp
 on:
   push:
     branches:
-      - main  # Changez selon votre branche par défaut
+      - png  # Changez selon votre branche par défaut
 
 jobs:
   run-script:
