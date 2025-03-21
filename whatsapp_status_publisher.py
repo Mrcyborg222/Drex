@@ -3,7 +3,7 @@ import pywhatkit as kit
 import os
 
 # Variables
-file_id = 'https://drive.google.com/drive/folders/17WJVNIqCsQzZz-mIhUYiLnbBgqfBvLWV'  # Remplacez par l'ID de votre fichier Google Drive
+file_id = 'https://drive.google.com/file/d/1BPXVleI34OulDJ8P9kkPc1vMoJR5ftIY/view?usp=drivesdk'  # Remplacez par l'ID de votre fichier Google Drive
 google_drive_url = f'https://drive.google.com/uc?id={file_id}'
 phone_number = '+237656360317'  # Remplacez par votre numéro WhatsApp
 status_message = 'Voici mon nouveau statut !'
